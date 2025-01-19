@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aditya Pawar👋
 
-<!--
-**adityapawar-07/adityapawar-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate *software developer* and with a strong background in *Java, **web development, and **problem-solving*. I thrive on learning new technologies and turning ideas into reality through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+### *Languages*
+- Java
+- Python
+- SQL
+- HTML & CSS
+- JavaScript
+
+### *Frameworks & Libraries*
+- Flask (Python)
+- React.js (Web)
+
+### *Tools & Platforms*
+- MySQL
+- IntelliJ IDEA
+- VS Code
+- GitHub
+- Google Colab
+
+---
+
+---
+
+## 📫 Contact Me
+- *LinkedIn*: [Aditya Pawar](https://linkedin.com/in/adityapawar07)
+- *Email*   : adityapawar7498@gmail.com
