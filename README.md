@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Pawar👋
 
-I'm a passionate *software developer* and with a strong background in *Java, **web development, and **problem-solving*. I thrive on learning new technologies and turning ideas into reality through code.
+I'm a passionate software developer with a strong background in Java, web development, and problem-solving. I thrive on learning new technologies and turning ideas into reality through code.
 
 ---
 
